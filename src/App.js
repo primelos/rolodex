@@ -47,3 +47,18 @@ class App extends Component {
 }
 
 export default App;
+
+
+// notes 
+
+// git remote add origin https://github.com/primelos/rolodex.git
+// npm i gh-pages
+
+// added to the package.json
+
+// "homepage": "https://primelos.github.io/rolodex",
+// "predeploy": "npm run build",
+// "deploy": "gh-pages -d build"
+
+// ran to deploy
+// npm run deploy
